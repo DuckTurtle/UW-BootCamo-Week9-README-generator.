@@ -11,7 +11,7 @@ This project was built in order to save time making README files. It allows the 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [contribute](#How to Contribute)
+- [Contribute](#How-to-Contribute)
 - [Tests](#Tests)
 - [Questions](#Questions)
 
@@ -22,7 +22,7 @@ To use this aplacation please install nodejs 18.16.0, inquirer@8.2.4, and day js
 ## Usage
 
 To use this product please take an image of your aplacation and place it in the images file, the cd into the folder containing the index.js file and run "node .\index.js" in your terminal, then respond to the questions.
-
+Video example : https://youtu.be/NS6VeFsQp70
 ![image of code](./assets/images/Capture.JPG);
 
 ## License
